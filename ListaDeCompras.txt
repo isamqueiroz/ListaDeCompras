@@ -2,4 +2,14 @@
 -banana
 -abacate
 -fenanda
+<<<<<<< HEAD
 -Isadora autista
+=======
+-abacate
+-lichia
+-macarrão
+-bolinha de ping pong
+-panela
+-chinelo
+-coleira de cachorro
+>>>>>>> b66b36e301e9e5de4b152b64097e40295aafeb73
